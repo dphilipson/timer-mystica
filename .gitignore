@@ -1,4 +1,4 @@
-/resources/public/js/compiled/**
+/resources/public/js/test/
 figwheel_server.log
 pom.xml
 *jar
@@ -14,4 +14,3 @@ pom.xml
 /.idea
 *.iml
 .lein-failures
-/resources/public/js/
